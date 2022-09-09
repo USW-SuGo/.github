@@ -6,9 +6,9 @@ SUGO - 수원대학교 재학생 중고거래 애플리케이션을 제작합니
 
 # 팀원 정보
 
-### 📱 Android - 이삭
-### 💻 Backend - 김도현
-### 🍎 IOS - 한지석
+### 📱 Android - [이삭](https://github.com/lsakee)
+### 💻 Backend - [김도현](https://github.com/K-Diger)
+### 🍎 IOS - [한지석](https://github.com/sozohoy)
 
 ---
 
