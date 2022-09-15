@@ -7,8 +7,13 @@ SUGO - 수원대학교 재학생 중고거래 애플리케이션을 제작합니
 # 팀원 정보
 
 ### 📱 Android - [이삭](https://github.com/lsakee)
+#### [ProjectRepositroy](https://github.com/USW-SuGo/Android)
+<br>
 ### 💻 Backend - [김도현](https://github.com/K-Diger)
+#### [ProjectRepositroy](https://github.com/USW-SuGo/Backend)
+<br>
 ### 🍎 IOS - [한지석](https://github.com/sozohoy)
+#### [ProjectRepositroy](https://github.com/USW-SuGo/iOS)
 
 ---
 
