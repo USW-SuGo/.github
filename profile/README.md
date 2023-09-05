@@ -5,16 +5,21 @@
 # 팀원 정보
 
 ### 📱 Android - [이삭](https://github.com/lsakee)
+
 #### [ProjectRepositroy](https://github.com/USW-SuGo/Android)
 
 <br>
 
 ### 💻 Backend - [김도현](https://github.com/K-Diger)
+
 #### [ProjectRepositroy](https://github.com/USW-SuGo/Backend)
+
+#### [Remaster-Repository](https://github.com/USW-SuGo/Kopring)
 
 <br>
 
 ### 🍎 IOS - [한지석](https://github.com/sozohoy)
+
 #### [ProjectRepositroy](https://github.com/USW-SuGo/iOS)
 
 ---
